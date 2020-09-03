@@ -17,3 +17,4 @@ end
 def using_delete(array, string)
   no_offense_steven = instructors.delete("Steven")
 end
+
